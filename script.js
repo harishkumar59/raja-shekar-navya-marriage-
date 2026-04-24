@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     // 2. COUNTDOWN TIMER
     // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    const weddingDate = new Date('2026-03-06T09:00:00+05:30').getTime();
+    const weddingDate = new Date('2026-05-10T23:50:00+05:30').getTime();
 
     const countDays = document.getElementById('countDays');
     const countHours = document.getElementById('countHours');
